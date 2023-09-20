@@ -1,3 +1,5 @@
+> This Repository is merged into the Main Repo and only an ARCHIVE
+
 ## ROSHOP-Responsive Open Source Modular Housing Prototype
 Modular House is a media and digital culture informed housing prototype for complex post-conflict and politically unstable environments, responsive to refugee, IDP and resource scarce needs. It was created at  Pagirinya  Refugee Settlement, as response to urgent community-use housing needs.
 
